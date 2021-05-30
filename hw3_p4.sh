@@ -1,0 +1,1 @@
+python3 ./Problem4/main.py --mode test --img_path $1 --target $2 --pred_path $3

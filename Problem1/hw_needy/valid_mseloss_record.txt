@@ -1,0 +1,31 @@
+filename:  40120.png
+MSELoss :  0.015530040487647057
+
+filename:  40363.png
+MSELoss :  0.01156605314463377
+
+filename:  40434.png
+MSELoss :  0.012438436970114708
+
+filename:  40445.png
+MSELoss :  0.012353840284049511
+
+filename:  40594.png
+MSELoss :  0.007980123162269592
+
+filename:  40721.png
+MSELoss :  0.016345538198947906
+
+filename:  40799.png
+MSELoss :  0.009472711011767387
+
+filename:  42078.png
+MSELoss :  0.014195578172802925
+
+filename:  42217.png
+MSELoss :  0.01907648891210556
+
+filename:  42589.png
+MSELoss :  0.012163515202701092
+epoch: 99
+valid_avg_loss: 0.02155 avg_kl_loss: 0.00844 avg_mse_loss: 0.01311
